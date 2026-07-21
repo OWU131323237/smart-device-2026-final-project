@@ -1,0 +1,14 @@
+# .streamlit/config.toml
+[theme]
+# ボタンやラジオボタンのチェックなどのアクセントカラー
+#https://www.khroma.co/generator webサイトKhroma
+primaryColor = "#df7834" 
+
+# アプリ全体の背景色
+backgroundColor = "#c5f8db" 
+
+# サイドバーなどの背景色
+secondaryBackgroundColor = "#dbf9e8" 
+
+# 文字の色
+textColor = "#df7834"
